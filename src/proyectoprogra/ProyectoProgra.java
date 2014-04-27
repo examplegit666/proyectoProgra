@@ -27,6 +27,10 @@ public class ProyectoProgra {
         
         //espacio 2
         
+        
+        
+        //AGREGANDO CAMBIOS DESDE NETBEANS
+        
     }
     
 }
